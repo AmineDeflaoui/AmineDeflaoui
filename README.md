@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @AmineDeflaoui ,
-- 👀 I am a web developer❤. I try playing HTML, CSS and JavaScript (React) Node.js (NPM) ,Express, SQL (Postgres) almost every day;
-      I am curious, I like to challenge me to learn new things and develop in different directions.
-      I try my best to keep up with the latest technological developments so that I can use tools that are very suitable for the job at hand to meet the challenges.
-- 🌱 I’m currently learning more about Node.js and Express.
+- 👀 I am a Moroccan Full Stack Web Developer ❤ that self-taught myself, I have expertise with both front-end and back-end development,
+and I've always been a curious person, therefore I'd want to work with others and complete some practical projects to advance my skills.
+
+- 🌱 I enjoy having my skills and knowledge stretched in order to learn new things,
+I make an effort to stay current with new development tools and technologies in order to handle the difficulties.
+
 - 📫 How to reach me : deflaoui.amine@gmail.com | aminedeflaoui@LinkedIn
 
 <!---
